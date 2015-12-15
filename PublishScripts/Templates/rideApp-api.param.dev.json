@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "rideApp"
+  },
+  "hostingPlanName": {
+    "value": "rideApp"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "5b2ef39e-229f-47c5-adf3-edd363c5404b"
+  },
+  "resourceGroup": {
+    "value": "rideAppApi"
+  }
+}
